@@ -5,7 +5,7 @@ function BinarioADecimal(num) {
 }
 
 function DecimalABinario(num) {
-  // tu codigo aca
+  // tu codigo aca o si no reto jacka
 }
 
 
